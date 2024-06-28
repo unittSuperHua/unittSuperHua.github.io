@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "instant-tracking-3d-model",
+"productVersion": "0.1",
+"dataUrl": "a5b2620afc1c520e10f30d32565d6205.unityweb",
+"wasmCodeUrl": "de5317bca6fd197132e99266234c4f0e.unityweb",
+"wasmFrameworkUrl": "ebc9a596851510de21685c088e514363.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.37f1c1"
+}
